@@ -40,4 +40,4 @@ for i, txt in enumerate(texts):
 plt.xlabel('UMAP Dimension 1')
 plt.ylabel('UMAP Dimension 2')
 plt.title('UMAP Visualization of Text Embeddings')
-plt.show()
+plt.savefig("./umap.png")
