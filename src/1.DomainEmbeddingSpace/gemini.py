@@ -28,7 +28,7 @@ for i, text1 in enumerate(texts):
         similarity = similarity_matrix[i, j]
         print(f"Similarity between '{text1}' and '{text2}': {similarity:.4f}")
 
-reducer = umap.UMAP(n_components=2, random_state=42, n_neighbors=2, min_dist=0.1, init='random')
+reducer = umap.UMAP(n_components=2, random_state=42, n_neighbors=2, min_dist=0.1, init='random') # init='spectral' for larger
 embeddings_2d = reducer.fit_transform(embeddings_matrix)
 
 plt.figure(figsize=(10, 8))
