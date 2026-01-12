@@ -1,4 +1,9 @@
-https://docs.google.com/document/d/1tHCFryWzjAhC4PgnJ2CrSVG65aIjLVIBOLUtSVVI9fQ/edit?tab=t.0
+1. Query arxiv API for domain papers
+2. Extract key questions from abstracts
+Astrophysics: N-body simulations, SPH methods, radiative transfer, cosmological simulations, stellar evolution codes
+Evolutionary Ecology: Population genetics simulations, phylogenetic inference, neutral theory, agent-based models
+Bioinformatics: Sequence alignment algorithms, hidden Markov models, genome assembly, RNA-seq analysis
+Classical Mathematics: https://github.com/hendrycks/math/
 
-https://github.com/hendrycks/math/
-
+-------
+Proposal: https://docs.google.com/document/d/1tHCFryWzjAhC4PgnJ2CrSVG65aIjLVIBOLUtSVVI9fQ/edit?tab=t.0

@@ -10,7 +10,15 @@ client = genai.Client()
 texts = [
     "What is the meaning of life?",
     "What is the purpose of existence?",
-    "How do I bake a cake?"]
+    "How do I bake a cake?",
+    "Solve for x: 2x + 5 = 13",
+    "What is a linear equation?",
+    "Explain the distributive property",
+    "What is a quadratic equation?",
+    "What is a prime number?",
+    "Explain the fundamental theorem of arithmetic",
+    "What is modular arithmetic?",
+    "Define the greatest common divisor"]
 
 result = [
     np.array(e.values) for e in client.models.embed_content(
