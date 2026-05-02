@@ -37,3 +37,201 @@ Condensed matter physics        800          -0.0101            0.3625
      High-energy physics        800          -0.0950            0.3764
       General relativity        800          -0.1030            0.3807
             Astrophysics        800          -0.1146            0.3292
+
+MATH2
+First topic Global Davies-Bouldin index: 4.384326763220724
+
+First topic metrics:
+          topic_type  n_samples  mean_silhouette  intra_cosine_sim
+            Geometry       8313           0.2233            0.4512
+            Calculus        163           0.1059            0.4409
+          Statistics        244           0.0590            0.3737
+         Precalculus        128           0.0289            0.3966
+       Number Theory       5195           0.0067            0.4158
+             Unknown          1           0.0000               NaN
+             Algebra       7859          -0.0458            0.3672
+Discrete Mathematics       5864          -0.0585            0.3275
+  Math Word Problems         50          -0.0979            0.2361
+Last topic Global Davies-Bouldin index: 7.10035196557256
+
+Last topic metrics:
+                                                                                    topic_type  n_samples  mean_silhouette  intra_cosine_sim
+                                                                                   Ring Theory         31           0.1346            0.5517
+                                                                                      Matrices        104           0.0781            0.5032
+                                                                                  Combinations         55           0.0394            0.4097
+                                                          Menger's theorem / max-flow, min-cut         11           0.0384            0.4200
+                                                                       Trigonometric functions         82           0.0323            0.4534
+                                                                        Linear transformations          3           0.0201            0.4601
+                                                                               Single-variable         60           0.0187            0.5045
+                                                                     Games / greedy algorithms        473           0.0110            0.4217
+                                                                                Abel summation         12           0.0018            0.5446
+                                                                      Descartes' Rule of Signs          1           0.0000               NaN
+                                                       Inscribed/circumscribed quadrilaterials          1           0.0000               NaN
+                                                                                     Manifolds          1           0.0000               NaN
+                                                                         Quadratic reciprocity          1           0.0000               NaN
+                                                                                 Related Rates          1           0.0000               NaN
+                                                                                       Unknown          1           0.0000               NaN
+                                                                              Jensen/smoothing          1           0.0000               NaN
+                                        Combinatorial number theory: van der Waerden's theorem          1           0.0000               NaN
+                                                                                     Curvature          1           0.0000               NaN
+                                                                          Unique factorization          1           0.0000               NaN
+                                                                               Transformations          1           0.0000               NaN
+                                                                   Cyclic quadrilaterilaterals          1           0.0000               NaN
+                                                                           Hyperbolic Geometry          1           0.0000               NaN
+                                                                                  Group Theory         43          -0.0016            0.4695
+                                                                         Logarithmic functions        114          -0.0030            0.4545
+                                                                                         Logic         96          -0.0067            0.3080
+                                                                                Cauchy-Schwarz        368          -0.0138            0.5615
+                                                                               Complex numbers        126          -0.0258            0.4690
+                                                                               Expected values        147          -0.0275            0.3964
+                                                                          Functional Equations        593          -0.0312            0.5457
+                                                                    Injectivity / surjectivity        280          -0.0322            0.5486
+                                                                           Sylvester's theorem          4          -0.0340            0.4499
+                                                                                  Convex hulls         66          -0.0476            0.4545
+                                                                                        Limits         14          -0.0504            0.4774
+                                                                                  Surface Area         25          -0.0507            0.3940
+                                                                               Turán's theorem         40          -0.0531            0.3598
+                                                                       Muirhead / majorization         26          -0.0585            0.5455
+                                                                                          ODEs         10          -0.0617            0.4622
+                                                                                        Volume        116          -0.0629            0.4033
+                                                                                  Field Theory         14          -0.0665            0.4932
+                                                                           φ (Euler's totient)         81          -0.0690            0.5321
+                                                                   Primitive roots mod p / p^n         13          -0.0768            0.4646
+          Triangle centers: centroid, incenter,    circumcenter, Euler line, nine-point circle          2          -0.0788            0.5200
+                                                                       Existential quantifiers        128          -0.0801            0.5075
+                                                                    Number-Theoretic Functions          2          -0.0819            0.5631
+                                                                           Symmetric functions        158          -0.0819            0.5010
+                                                                        Combinatorial Geometry        126          -0.0820            0.4317
+                                                                               Helly's theorem          9          -0.0825            0.4423
+                                                                       Mathematical Statistics          7          -0.0832            0.2739
+                                                                      QM-AM-GM-HM / Power Mean        598          -0.0858            0.5186
+                                                                           σ (sum of divisors)         57          -0.0898            0.5018
+                                                                               Quadratic forms          6          -0.0917            0.4922
+                                                                         Triangle inequalities        198          -0.0963            0.4779
+                                                                                Pick's theorem         18          -0.0979            0.4288
+                                                                                  Permutations         58          -0.0989            0.3440
+                                                                     Brocard point, symmedians         27          -0.1029            0.6195
+                                                                          Functional equations         22          -0.1075            0.4261
+                                                                            Spherical Geometry          5          -0.1096            0.2516
+                                                                          Sequences and Series         68          -0.1118            0.4389
+                                                                        τ (number of divisors)        175          -0.1131            0.4906
+                                                                              Vieta's formulas        317          -0.1135            0.4600
+                                                                                    Algorithms         52          -0.1144            0.3194
+                                                                   Euler characteristic: V-E+F         25          -0.1152            0.3717
+                                                                                     3D Shapes        128          -0.1153            0.4194
+                                                                             Desargues theorem          9          -0.1170            0.6455
+                                                                                   Derivatives         59          -0.1170            0.4363
+                                                                            Telescoping series        113          -0.1203            0.4390
+                                                                                  Graph Theory        304          -0.1204            0.3365
+                                                                      Optimization in geometry        146          -0.1212            0.4042
+                                                                                     Triangles        289          -0.1227            0.5057
+                                                                         Diophantine Equations         14          -0.1241            0.4973
+                                                                                  Applications         33          -0.1244            0.4430
+                              Irreducibility: Rational Root Theorem, Gauss's Lemma, Eisenstein         55          -0.1257            0.4749
+                                                    Matchings, Marriage Lemma, Tutte's theorem        109          -0.1278            0.3256
+                                                                     Invariants / monovariants        857          -0.1281            0.3602
+                                                                                      Decimals         51          -0.1284            0.3078
+                                                                            Jensen / smoothing        105          -0.1294            0.4910
+                                                                          Recurrence relations        703          -0.1301            0.4702
+                                                              Fermat / Euler / Wilson theorems        300          -0.1353            0.4641
+                                                                           Pythagorean triples         40          -0.1372            0.4646
+                                                                                   Polynomials        100          -0.1388            0.4746
+                                                                     Enumeration with symmetry        294          -0.1389            0.3587
+                                                                         Triangle trigonometry        455          -0.1401            0.4777
+                                                                         Exponential functions        151          -0.1413            0.4002
+                                                          Coloring schemes, extremal arguments        952          -0.1420            0.3603
+                                                                                     Fractions        218          -0.1427            0.3255
+                                                                    Combinatorial optimization         66          -0.1436            0.3862
+                                                                           Floors and ceilings        232          -0.1453            0.4424
+                                                                           Quadratic functions        226          -0.1467            0.4052
+                                                             Permutations / basic group theory         30          -0.1472            0.3302
+                                                                                Roots of unity         55          -0.1477            0.4347
+                                                    Polynomial interpolation: Newton, Lagrange         55          -0.1481            0.4640
+                                                                          Multiplicative order         73          -0.1490            0.4512
+                                                             Linear and quadratic inequalities        481          -0.1491            0.4491
+                                                                                 Combinatorics         45          -0.1493            0.3572
+                                                                              Möbius inversion          4          -0.1497            0.5024
+                                                                            Math Word Problems         50          -0.1507            0.2361
+                                                                                Ceva's theorem        106          -0.1549            0.5764
+                                                                                  Determinants         14          -0.1575            0.3918
+                                                                          Recursion, bijection        497          -0.1585            0.3555
+                                                                                     Functions         32          -0.1587            0.3925
+                                                                Greatest common divisors (gcd)        610          -0.1606            0.4410
+                                                                             Polynomials mod p         83          -0.1611            0.4482
+                                                                         Induction / smoothing        150          -0.1615            0.3775
+                                                              Infinite descent / root flipping         44          -0.1616            0.4573
+                                                                    Equations and Inequalities         22          -0.1619            0.4278
+                                                                              Quadratic fields          9          -0.1623            0.3771
+                                                                                  Trigonometry        107          -0.1627            0.3673
+                                                 Algebraic properties of binomial coefficients        101          -0.1637            0.4083
+                                                                                 Prime numbers        546          -0.1651            0.4480
+                                                                              Pell's equations         47          -0.1656            0.4985
+                                                                             Counting two ways        742          -0.1659            0.3364
+                                                                           Minkowski's theorem          4          -0.1685            0.3685
+                                                                  Least common multiples (lcm)        110          -0.1699            0.4071
+                                                                   Catalan numbers, partitions         29          -0.1713            0.3513
+                                                                            Quadratic residues         79          -0.1714            0.4723
+                                                                           Inclusion-exclusion        160          -0.1719            0.3257
+                                                                                Inverses mod n        159          -0.1721            0.4159
+                                                                             Other 3D problems        177          -0.1727            0.3987
+                                                                                       Circles         92          -0.1739            0.3904
+                                                                                      Integers        433          -0.1744            0.3772
+                                                                                   Simson line         28          -0.1755            0.5978
+                                                                              Distance chasing        143          -0.1758            0.3687
+                                                                     Chinese remainder theorem        174          -0.1761            0.4386
+                                                                         Polynomial operations        767          -0.1775            0.4237
+                                                   Quadrilaterals with perpendicular diagonals         56          -0.1782            0.5111
+                                                                                Quadrilaterals        214          -0.1786            0.5143
+                                                                          Pigeonhole principle        628          -0.1790            0.3427
+Triangle centers: centroid, incenter, circumcenter, orthocenter, Euler line, nine-point circle       1595          -0.1834            0.5700
+                                                                        Constructions and loci        233          -0.1845            0.3825
+                                                                    Intermediate Value Theorem         34          -0.1854            0.4771
+                                                                  Divisibility / Factorization        315          -0.1892            0.4232
+                                                                              Simple Equations        463          -0.1914            0.2981
+                                                        Inscribed/circumscribed quadrilaterals        106          -0.1915            0.5080
+                                                                            Modular Arithmetic        390          -0.1930            0.4057
+                                                                             Sums and products        362          -0.1935            0.3770
+                                                                                 Angle chasing        560          -0.1939            0.4733
+                                                                  Concurrency and Collinearity         32          -0.1956            0.5879
+                                                                                      Tangents        956          -0.1960            0.5396
+                                                                      Factorization techniques        834          -0.1970            0.4182
+                                                                             Menelaus' theorem         60          -0.1974            0.5632
+                                         Isogonal/isotomic conjugates, barycentric coordinates         17          -0.1999            0.5927
+                                                                         Cartesian coordinates        403          -0.2003            0.3780
+                                                                          Generating functions         50          -0.2026            0.3621
+                                                                         Chebyshev polynomials         10          -0.2099            0.3961
+                                                                             Spiral similarity         45          -0.2130            0.5776
+                                                          Polar triangles, harmonic conjugates          8          -0.2164            0.5703
+                               Techniques: modulo, size analysis, order analysis, inequalities        818          -0.2169            0.4454
+                                                                   Complex numbers in geometry         73          -0.2180            0.4085
+                                                                          Circle of Apollonius         16          -0.2183            0.4804
+                                                                          Radical axis theorem        182          -0.2221            0.5759
+                                                                                      Rotation        134          -0.2227            0.4348
+                                                                                   Translation         38          -0.2258            0.3861
+                                                                         Cyclic quadrilaterals        921          -0.2263            0.5642
+                                                                                  Miquel point         29          -0.2272            0.6046
+                                                                                Pappus theorem          6          -0.2370            0.5247
+                                                                                     Homothety        148          -0.2388            0.4870
+                                                                                     Inversion         56          -0.2397            0.5384
+                                                                                         Other        515          -0.2420            0.3131
+                                                                                       Vectors        103          -0.2430            0.3589
+             Triangle centers: centroid, incenter, circumcenter, Euler line, nine-point circle         33          -0.2432            0.5558
+                                                                             Algebraic numbers          3          -0.2466            0.4012
+                                                                    Napoleon and Fermat points         10          -0.2620            0.4748
+                                                                                Coaxal circles         16          -0.2635            0.5415
+
+PHYSICS2
+First topic Global Davies-Bouldin index: 4.325541759559454
+
+First topic metrics:
+       topic_type  n_samples  mean_silhouette  intra_cosine_sim
+           Optics        222           0.1351            0.3443
+    Waves & Sound         64           0.1115            0.3330
+ Electromagnetism        197           0.0841            0.3246
+Quantum Mechanics         74           0.0752            0.3410
+   Fluid Dynamics         47           0.0549            0.2854
+   Thermodynamics        161           0.0440            0.2963
+       Relativity         53           0.0391            0.3025
+  Nuclear Physics         89           0.0250            0.2837
+            Other         10           0.0085            0.2666
+        Mechanics        382           0.0006            0.2528
